@@ -16,6 +16,11 @@ body {
   height: 100%;
 }
 
+h1,
+h2 {
+  color: #fff;
+}
+
 .head-bg {
   background-image: url(../../img/home-bg.jpg);
 }
